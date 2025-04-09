@@ -5,7 +5,7 @@ WINDOW 0 0 -56 Bottom 2
 WINDOW 3 0 56 Top 2
 SYMATTR Prefix X
 SYMATTR Value OPAx197
-SYMATTR ModelFile C:\Users\bismi\OneDrive\Documents\LTspice\SPICEV2\OPAx197.LIB
+SYMATTR ModelFile C:\Users\hibin\Documents\Senior Design\Spice\SpiceModels\OPAx197.LIB
 PIN -64 32 LEFT 8
 PINATTR PinName +
 PINATTR SpiceOrder 1
