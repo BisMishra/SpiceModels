@@ -1,17 +1,12 @@
-LTspice 24.1.4 for Windows
-Circuit: C:\Users\hibin\Documents\Senior Design\Spice\SpiceModels\WPT.net
-Start Time: Wed Apr  9 01:05:30 2025
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\bismi\OneDrive\Documents\Senior Design\Spice Models\WPT.asc
+Start Time: Wed Apr  9 18:18:15 2025
 solver = Normal
-Maximum thread count: 12
+Maximum thread count: 16
 tnom = 27
 temp = 27
 method = modified trap
-x1:C3: Increased Cpar to 1e-12
+X1:c3: Increased Cpar to 1e-12
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.080 seconds.
-
-Files loaded:
-C:\Users\hibin\Documents\Senior Design\Spice\SpiceModels\WPT.net
-C:\Users\hibin\Documents\Senior Design\Spice\SpiceModels\OPAx197.LIB
-C:\Users\hibin\AppData\Local\LTspice\lib\sub\NE555.sub
+Total elapsed time: 5.773 seconds.
 

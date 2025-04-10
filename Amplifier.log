@@ -1,6 +1,6 @@
 LTspice 24.0.9 for Windows
 Circuit: * C:\Users\bismi\OneDrive\Documents\Senior Design\Spice Models\Amplifier.asc
-Start Time: Sun Apr  6 23:05:22 2025
+Start Time: Wed Apr  9 15:43:02 2025
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -155,11 +155,3 @@ Source Step = 92.4772%
 Source Step = 92.5057%
 Source Step = 92.5342%
 Source Step = 92.5627%
-Source Step = 92.5911%
-Source Step = 92.6196%
-Source Step = 92.6481%
-Starting source stepping with srcstepmethod=1
-Source Step = 3.0303%
-Source stepping failed
-
-Pseudo Transient failed in finding the operating point at 76.1996 ms.

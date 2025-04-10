@@ -1,16 +1,12 @@
-LTspice 24.1.4 for Windows
-Circuit: C:\Users\hibin\Documents\Senior Design\Spice\SpiceModels\555Timer.net
-Start Time: Wed Apr  9 00:47:17 2025
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\bismi\OneDrive\Documents\Senior Design\Spice Models\555Timer.asc
+Start Time: Wed Apr  9 18:10:27 2025
 solver = Normal
-Maximum thread count: 12
+Maximum thread count: 16
 tnom = 27
 temp = 27
 method = modified trap
-C3: Increased Cpar to 1e-12
+c3: Increased Cpar to 1e-12
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.043 seconds.
-
-Files loaded:
-C:\Users\hibin\Documents\Senior Design\Spice\SpiceModels\555Timer.net
-C:\Users\hibin\AppData\Local\LTspice\lib\sub\NE555.sub
+Total elapsed time: 0.197 seconds.
 
